@@ -2,4 +2,6 @@
 
 1. <https://www.youtube.com/watch?v=PUkgK7TI0x0&list=PLNCevxogE3fiLT6bEObGeVfHVLnttptKv&index=4>
 
-2. ![캡쳐](screenshot.gif)
+2. <https://hyundai-sangho.github.io/Dictionary/>
+
+3. ![캡쳐](screenshot.gif)
